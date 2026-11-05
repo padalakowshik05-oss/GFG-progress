@@ -1,0 +1,7 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/trimorphic-number3553/1?page=4&category=Mathematics&difficulty=Basic&sortBy=submissions">Trimorphic Number</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">Given an integer <strong>n</strong>, determine whether it is a Trimorphic Number. A number is called Trimorphic if the last d digits of<strong> n<span style="font-size: 12pt;"><sup>3</sup></span></strong>&nbsp;are equal to n, where d is the number of digits in n.</span></p><p><strong><span style="font-size: 18px;">Examples:</span></strong></p><pre><span style="font-size: 18px;"><strong>Input:</strong> n = 1
+<strong>Output:</strong> true
+<strong>Explanation:</strong> 1<sup>3</sup> = 1. So the cube here is ending with the number.</span></pre><pre><span style="font-size: 18px;"><strong>Input:</strong> n = 2
+<strong>Output:</strong> false
+<strong>Explanation:</strong> 2<sup>3</sup> = 8. The cube is not ending with the number at it's end.</span></pre><pre><span style="font-size: 18px;"><strong>Input:</strong> n = 24
+<strong>Output:</strong> true
+<strong>Explanation:</strong> 24<sup>3</sup> = 13824. The cube is ending with 24.</span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Mathematics</code>&nbsp;
