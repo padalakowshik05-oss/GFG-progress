@@ -1,0 +1,5 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/prime-factorization-and-geek-number1915/1">Check if All Prime Factors are Distinct</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p>Given a number, check if all prime factors appear only once in prime factorization.</p><p><span style="font-size: 18px;"><strong>Examples:</strong></span></p><pre><span style="font-size: 18px;"><strong>Input:</strong> n = 22
+<strong>Output:</strong> true
+<strong>Explaination:</strong> 22 = 2<sup>1</sup>11<sup>1</sup>. Here all the powers of prime numbers are one.</span></pre><pre><span style="font-size: 18px;"><strong>Input:</strong> n = 4
+<strong>Output:</strong> false
+<strong>Explaination:</strong> 4 = 2<sup>2</sup>. Here all the powers of all the prime are not one.</span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Prime Number</code>&nbsp;<code>Numbers</code>&nbsp;
